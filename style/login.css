@@ -44,7 +44,7 @@ body {
     text-align: center;
 }
 
-.form {
+.form_login {
     width: 100%;
     display: flex;
     flex-direction: column;
